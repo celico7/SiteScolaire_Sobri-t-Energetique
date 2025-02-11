@@ -6,4 +6,4 @@ Un quiz est disponible à la fin, développé en JavaScript.
 
 <a href= "https://hoffmannc.etu.mmi-unistra.fr/SAE303/">Voir le site </a>
 
-<img src="SitePageAccueil">
+<img src="SitePageAccueil.png">
